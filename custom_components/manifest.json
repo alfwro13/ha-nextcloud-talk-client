@@ -3,7 +3,7 @@
   "name": "Nextcloud Talk Client",
   "documentation": "https://github.com/p-nn/ha-nextcloud-talk-client/blob/main/README.md",
   "dependencies": ["websocket-client==1.2.1"],
-  "codeowners": ["@your-github-username"],
+  "codeowners": ["@alfwro13"],
   "version": "0.1.0",
   "requirements": ["websocket-client==1.2.1"],
   "iot_class": "cloud"
